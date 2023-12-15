@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "modulariser2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "modulariser2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-modulariser2-Debug-07e280212d0b48b7cdf4.json",
+					"name" : "modulariser2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/thoma/Desktop/Apprentissage D\u00e9veloppeur Informatique/CESI DI23/Projet1etudiantPendu/PenduFinal/cmake-build-debug",
+		"source" : "C:/Users/thoma/Desktop/Apprentissage D\u00e9veloppeur Informatique/CESI DI23/Projet1etudiantPendu/PenduFinal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
